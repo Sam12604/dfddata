@@ -59,6 +59,21 @@
           "start": 1771190220
         }
       ]
+    },
+    {
+      "ref": "BNR-20260215-004",
+      "type": "notification-info",
+      "source": "admin",
+      "content": "yo1",
+      "start_time": 1771190700,
+      "end_time": 1771968300,
+      "added_on": 1771190722,
+      "display_times": [
+        {
+          "end": 1771968300,
+          "start": 1771190700
+        }
+      ]
     }
   ]
 }
