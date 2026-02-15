@@ -31,36 +31,6 @@
       ]
     },
     {
-      "ref": "BNR-20260215-003",
-      "type": "notification-severe",
-      "source": "admin",
-      "content": "tet",
-      "start_time": 1771190100,
-      "end_time": 1772399700,
-      "added_on": 1771190149,
-      "display_times": [
-        {
-          "end": 1772399700,
-          "start": 1771190100
-        }
-      ]
-    },
-    {
-      "ref": "BNR-20260215-003",
-      "type": "notification-info",
-      "source": "admin",
-      "content": "yo",
-      "start_time": 1771190220,
-      "end_time": 1771276920,
-      "added_on": 1771190562,
-      "display_times": [
-        {
-          "end": 1771276920,
-          "start": 1771190220
-        }
-      ]
-    },
-    {
       "ref": "BNR-20260215-004",
       "type": "notification-info",
       "source": "admin",
