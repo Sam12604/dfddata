@@ -37,11 +37,26 @@
       "content": "tet",
       "start_time": 1771190100,
       "end_time": 1772399700,
-      "added_on": 1771190148,
+      "added_on": 1771190147,
       "display_times": [
         {
           "start": 1771190100,
           "end": 1772399700
+        }
+      ]
+    },
+    {
+      "ref": "BNR-20260215-003",
+      "type": "notification-severe",
+      "source": "admin",
+      "content": "tet",
+      "start_time": 1771190100,
+      "end_time": 1772399700,
+      "added_on": 1771190149,
+      "display_times": [
+        {
+          "end": 1772399700,
+          "start": 1771190100
         }
       ]
     }
