@@ -74,6 +74,21 @@
           "start": 1771190700
         }
       ]
+    },
+    {
+      "ref": "BNR-20260215-005",
+      "type": "notification-info",
+      "source": "admin",
+      "content": "hahahah",
+      "start_time": 1771190880,
+      "end_time": 1772054880,
+      "added_on": 1771190941,
+      "display_times": [
+        {
+          "end": 1772054880,
+          "start": 1771190880
+        }
+      ]
     }
   ]
 }
