@@ -1,0 +1,49 @@
+{
+  "notification": [
+    {
+      "ref": "BNR-20260213-003",
+      "type": "notification-info",
+      "source": "admin",
+      "content": "test",
+      "start_time": 1770302580,
+      "end_time": 1770907380,
+      "added_on": 1770993933,
+      "display_times": [
+        {
+          "end": 1770907380,
+          "start": 1770302580
+        }
+      ]
+    },
+    {
+      "ref": "BNR-20260215-001",
+      "type": "notification-warning",
+      "source": "admin",
+      "content": "warning bossman",
+      "start_time": 1771189860,
+      "end_time": 1771794660,
+      "added_on": 1771189898,
+      "display_times": [
+        {
+          "start": 1771189860,
+          "end": 1771794660
+        }
+      ]
+    },
+    {
+      "ref": "BNR-20260215-003",
+      "type": "notification-severe",
+      "source": "admin",
+      "content": "tet",
+      "start_time": 1771190100,
+      "end_time": 1772399700,
+      "added_on": 1771190149,
+      "display_times": [
+        {
+          "end": 1772399700,
+          "start": 1771190100
+        }
+      ]
+    }
+  ]
+}
