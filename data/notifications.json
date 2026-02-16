@@ -1,21 +1,6 @@
 {
   "notification": [
     {
-      "ref": "BNR-20260215-004",
-      "type": "notification-info",
-      "source": "admin",
-      "content": "yo1",
-      "start_time": 1771190700,
-      "end_time": 1771968300,
-      "added_on": 1771190722,
-      "display_times": [
-        {
-          "end": 1771968300,
-          "start": 1771190700
-        }
-      ]
-    },
-    {
       "ref": "BNR-20260215-005",
       "type": "notification-info",
       "source": "admin",
@@ -27,21 +12,6 @@
         {
           "end": 1772054880,
           "start": 1771190880
-        }
-      ]
-    },
-    {
-      "ref": "BNR-20260215-004",
-      "type": "notification-info",
-      "source": "admin",
-      "content": "ok",
-      "start_time": 1771191300,
-      "end_time": 1771198500,
-      "added_on": 1771191319,
-      "display_times": [
-        {
-          "end": 1771198500,
-          "start": 1771191300
         }
       ]
     },
