@@ -1,36 +1,6 @@
 {
   "notification": [
     {
-      "ref": "BNR-20260215-005",
-      "type": "notification-info",
-      "source": "admin",
-      "content": "hahahah",
-      "start_time": 1771190880,
-      "end_time": 1772054880,
-      "added_on": 1771190941,
-      "display_times": [
-        {
-          "end": 1772054880,
-          "start": 1771190880
-        }
-      ]
-    },
-    {
-      "ref": "BNR-20260215-005",
-      "type": "notification-warning",
-      "source": "admin",
-      "content": "?",
-      "start_time": 1771191300,
-      "end_time": 1772660160,
-      "added_on": 1771191366,
-      "display_times": [
-        {
-          "start": 1771191300,
-          "end": 1772660160
-        }
-      ]
-    },
-    {
       "ref": "BNR-20260216-001",
       "type": "notification-info",
       "source": "admin",
