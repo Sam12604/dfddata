@@ -1,21 +1,6 @@
 {
   "notification": [
     {
-      "ref": "BNR-20260213-003",
-      "type": "notification-info",
-      "source": "admin",
-      "content": "test",
-      "start_time": 1770302580,
-      "end_time": 1770907380,
-      "added_on": 1770993933,
-      "display_times": [
-        {
-          "end": 1770907380,
-          "start": 1770302580
-        }
-      ]
-    },
-    {
       "ref": "BNR-20260215-001",
       "type": "notification-warning",
       "source": "admin",
