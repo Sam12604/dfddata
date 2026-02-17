@@ -4,14 +4,14 @@
       "ref": "BNR-20260216-001",
       "type": "notification-info",
       "source": "admin",
-      "content": "System migration may cause performance issues until 12/03 apologies",
+      "content": "Test banner",
       "start_time": 1771270440,
       "end_time": 1773358440,
       "added_on": 1771270502,
       "display_times": [
         {
-          "end": 1773358440,
-          "start": 1771270440
+          "start": 1771270440,
+          "end": 1773358440
         }
       ]
     }
