@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T20:19:48.688Z",
+  "last_updated": "2026-02-17T22:19:50.927Z",
   "source": "National Highways",
   "road": "A282",
   "count": 9,
@@ -668,9 +668,13 @@
         {
           "start_time": "2026-03-02T22:00:00.000Z",
           "end_time": "2026-03-03T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-03-03T22:00:00.000Z",
+          "end_time": "2026-03-04T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 6
+      "occurrence_count": 7
     },
     {
       "event_id": "00445685-001",
@@ -976,10 +980,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-02-16T21:00:00.000Z",
-          "end_time": "2026-02-17T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-02-23T21:00:00.000Z",
           "end_time": "2026-02-24T05:30:00.000Z"
         },
@@ -1016,7 +1016,7 @@
           "end_time": "2026-02-28T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 20
+      "occurrence_count": 18
     },
     {
       "event_id": "00445695-001",
@@ -1324,9 +1324,13 @@
         {
           "start_time": "2026-03-02T21:00:00.000Z",
           "end_time": "2026-03-03T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-03-03T21:00:00.000Z",
+          "end_time": "2026-03-04T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 4
     },
     {
       "event_id": "00473843-001",
@@ -2008,10 +2012,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-02-16T22:00:00.000Z",
-          "end_time": "2026-02-17T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-02-17T22:00:00.000Z",
           "end_time": "2026-02-18T05:30:00.000Z"
         },
@@ -2028,7 +2028,7 @@
           "end_time": "2026-02-21T06:00:00.000Z"
         }
       ],
-      "occurrence_count": 5
+      "occurrence_count": 4
     },
     {
       "event_id": "00482265-001",
