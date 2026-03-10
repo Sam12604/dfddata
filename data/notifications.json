@@ -15,6 +15,22 @@
         }
       ],
       "calendarEventId": "qfj2cablquckm8e31hgama6inc@google.com"
+    },
+    {
+      "ref": "BNR-20260310-002",
+      "type": "notification-warning",
+      "source": "admin",
+      "content": "true",
+      "start_time": 1773140220,
+      "end_time": 1773226680,
+      "added_on": 1773140460,
+      "display_times": [
+        {
+          "start": 1773140220,
+          "end": 1773226680
+        }
+      ],
+      "calendarEventId": "97b29q0fkdvmhcho5ieer7altk@google.com"
     }
   ]
 }
