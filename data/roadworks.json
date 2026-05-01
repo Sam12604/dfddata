@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T20:46:41.358Z",
+  "last_updated": "2026-05-01T20:46:39.569Z",
   "source": "National Highways",
   "road": "A282",
   "count": 11,
@@ -460,15 +460,11 @@
       },
       "periods": [
         {
-          "start_time": "2026-04-30T20:00:00.000Z",
-          "end_time": "2026-05-01T04:30:00.000Z"
-        },
-        {
           "start_time": "2026-05-01T20:00:00.000Z",
           "end_time": "2026-05-02T04:30:00.000Z"
         }
       ],
-      "occurrence_count": 4
+      "occurrence_count": 2
     },
     {
       "event_id": "00482533-001",
@@ -2234,9 +2230,13 @@
         {
           "start_time": "2026-05-08T22:00:00.000Z",
           "end_time": "2026-05-09T05:00:00.000Z"
+        },
+        {
+          "start_time": "2026-05-15T22:00:00.000Z",
+          "end_time": "2026-05-16T05:00:00.000Z"
         }
       ],
-      "occurrence_count": 8
+      "occurrence_count": 9
     },
     {
       "event_id": "00483983-001",
@@ -2810,9 +2810,13 @@
         {
           "start_time": "2026-05-14T21:00:00.000Z",
           "end_time": "2026-05-15T04:30:00.000Z"
+        },
+        {
+          "start_time": "2026-05-15T22:00:00.000Z",
+          "end_time": "2026-05-16T05:00:00.000Z"
         }
       ],
-      "occurrence_count": 8
+      "occurrence_count": 9
     },
     {
       "event_id": "00498858-001",
