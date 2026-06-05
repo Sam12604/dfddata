@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-04T20:46:39.694Z",
+  "last_updated": "2026-06-05T20:46:40.131Z",
   "source": "National Highways",
   "road": "A282",
-  "count": 13,
+  "count": 12,
   "roadworks": [
     {
       "event_id": "00441673-001",
@@ -1278,15 +1278,11 @@
       },
       "periods": [
         {
-          "start_time": "2026-06-04T20:00:00.000Z",
-          "end_time": "2026-06-05T04:30:00.000Z"
-        },
-        {
           "start_time": "2026-06-05T20:30:00.000Z",
           "end_time": "2026-06-06T04:30:00.000Z"
         }
       ],
-      "occurrence_count": 4
+      "occurrence_count": 2
     },
     {
       "event_id": "00445732-001",
@@ -1606,9 +1602,13 @@
         {
           "start_time": "2026-06-18T20:00:00.000Z",
           "end_time": "2026-06-19T04:30:00.000Z"
+        },
+        {
+          "start_time": "2026-06-19T20:30:00.000Z",
+          "end_time": "2026-06-20T04:30:00.000Z"
         }
       ],
-      "occurrence_count": 8
+      "occurrence_count": 10
     },
     {
       "event_id": "00489405-001",
@@ -2517,134 +2517,6 @@
       "occurrence_count": 2
     },
     {
-      "event_id": "00503338-001",
-      "title": "M25 Clockwise Jct 30 to A13 Eastbound",
-      "description": "M25 Clockwise Jct 30 to A13 Eastbound\r\nLink Road and Lane Closure for Urgent Safety Fence Repairs \r\nDiversion via National Highways Network",
-      "status": null,
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              0.269069308372452,
-              51.4994023664039
-            ],
-            [
-              0.269169723301703,
-              51.4991726265731
-            ],
-            [
-              0.269305013068848,
-              51.4990081797199
-            ],
-            [
-              0.26948321774389,
-              51.4988545860942
-            ],
-            [
-              0.269773762794369,
-              51.498685984283
-            ],
-            [
-              0.270312753541316,
-              51.498343404435
-            ],
-            [
-              0.270522032072376,
-              51.498219143274
-            ],
-            [
-              0.270640081973911,
-              51.4981636920307
-            ],
-            [
-              0.270775565265098,
-              51.498117424184
-            ],
-            [
-              0.270926579015901,
-              51.4980789268199
-            ],
-            [
-              0.271080274251858,
-              51.4980521170858
-            ],
-            [
-              0.271417169691202,
-              51.4980193707147
-            ],
-            [
-              0.272922410365228,
-              51.4978238813011
-            ]
-          ]
-        ]
-      },
-      "periods": [
-        {
-          "start_time": "2026-06-05T22:00:00.000Z",
-          "end_time": "2026-06-06T04:30:00.000Z"
-        }
-      ],
-      "occurrence_count": 1
-    },
-    {
-      "event_id": "00504005-001",
-      "title": "A282 Northbound Dartford Crossing West Tunnel to M25 Anti-clockwise Jct 30",
-      "description": "A282 Northbound Dartford Crossing West Tunnel to M25 Anti-clockwise Jct 30\r\nLane closure for emergency safety fence repairs\r\nDiversion via National Highways and Local Authorities Network",
-      "status": null,
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              0.267905049256725,
-              51.4935239882521
-            ],
-            [
-              0.267757077639395,
-              51.492351245007
-            ],
-            [
-              0.267668004770364,
-              51.4917576065675
-            ],
-            [
-              0.267561182936296,
-              51.4909554882644
-            ],
-            [
-              0.267471006212566,
-              51.4904524507842
-            ],
-            [
-              0.267338529537292,
-              51.4898851030811
-            ],
-            [
-              0.267190153485061,
-              51.4891664896918
-            ],
-            [
-              0.267100324742188,
-              51.4885251110959
-            ],
-            [
-              0.267065222129037,
-              51.4876783756573
-            ]
-          ]
-        ]
-      },
-      "periods": [
-        {
-          "start_time": "2026-06-13T21:00:00.000Z",
-          "end_time": "2026-06-14T04:30:00.000Z"
-        }
-      ],
-      "occurrence_count": 1
-    },
-    {
       "event_id": "00504067-001",
       "title": "M25 Clockwise Dartford Crossing QEII Bridge Jct 31 to Jct 1A",
       "description": "M25 Clockwise Dartford Crossing QEII Bridge Jct 31 to Jct 1A\r\nLane and slip road closure for emergency carriageway repairs\r\nDiversion via National Highways Network",
@@ -2758,6 +2630,62 @@
         {
           "start_time": "2026-06-05T22:00:00.000Z",
           "end_time": "2026-06-06T04:30:00.000Z"
+        }
+      ],
+      "occurrence_count": 2
+    },
+    {
+      "event_id": "00504005-001",
+      "title": "A282 Northbound Dartford Crossing West Tunnel to M25 Anti-clockwise Jct 30",
+      "description": "A282 Northbound Dartford Crossing West Tunnel to M25 Anti-clockwise Jct 30\r\nLane closure for emergency safety fence repairs\r\nDiversion via National Highways and Local Authorities Network",
+      "status": null,
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.267905049256725,
+              51.4935239882521
+            ],
+            [
+              0.267757077639395,
+              51.492351245007
+            ],
+            [
+              0.267668004770364,
+              51.4917576065675
+            ],
+            [
+              0.267561182936296,
+              51.4909554882644
+            ],
+            [
+              0.267471006212566,
+              51.4904524507842
+            ],
+            [
+              0.267338529537292,
+              51.4898851030811
+            ],
+            [
+              0.267190153485061,
+              51.4891664896918
+            ],
+            [
+              0.267100324742188,
+              51.4885251110959
+            ],
+            [
+              0.267065222129037,
+              51.4876783756573
+            ]
+          ]
+        ]
+      },
+      "periods": [
+        {
+          "start_time": "2026-06-13T21:00:00.000Z",
+          "end_time": "2026-06-14T04:30:00.000Z"
         }
       ],
       "occurrence_count": 1
