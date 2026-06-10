@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T21:46:39.944Z",
+  "last_updated": "2026-06-10T20:46:41.436Z",
   "source": "National Highways",
   "road": "A282",
   "count": 11,
@@ -478,15 +478,11 @@
       },
       "periods": [
         {
-          "start_time": "2026-06-09T21:00:00.000Z",
-          "end_time": "2026-06-10T04:30:00.000Z"
-        },
-        {
           "start_time": "2026-06-10T21:00:00.000Z",
           "end_time": "2026-06-11T04:30:00.000Z"
         }
       ],
-      "occurrence_count": 4
+      "occurrence_count": 2
     },
     {
       "event_id": "00444321-001",
@@ -948,10 +944,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-06-09T21:00:00.000Z",
-          "end_time": "2026-06-10T04:30:00.000Z"
-        },
-        {
           "start_time": "2026-06-10T21:00:00.000Z",
           "end_time": "2026-06-11T04:30:00.000Z"
         },
@@ -964,7 +956,7 @@
           "end_time": "2026-06-13T05:00:00.000Z"
         }
       ],
-      "occurrence_count": 4
+      "occurrence_count": 3
     },
     {
       "event_id": "00445732-001",
@@ -1290,6 +1282,10 @@
           "end_time": "2026-06-18T04:30:00.000Z"
         },
         {
+          "start_time": "2026-06-24T20:00:00.000Z",
+          "end_time": "2026-06-25T04:30:00.000Z"
+        },
+        {
           "start_time": "2026-06-18T20:00:00.000Z",
           "end_time": "2026-06-19T04:30:00.000Z"
         },
@@ -1298,7 +1294,7 @@
           "end_time": "2026-06-20T04:30:00.000Z"
         }
       ],
-      "occurrence_count": 14
+      "occurrence_count": 16
     },
     {
       "event_id": "00482825-001",
@@ -2274,15 +2270,11 @@
       },
       "periods": [
         {
-          "start_time": "2026-06-09T21:00:00.000Z",
-          "end_time": "2026-06-10T04:30:00.000Z"
-        },
-        {
           "start_time": "2026-06-10T21:00:00.000Z",
           "end_time": "2026-06-11T04:30:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 1
     },
     {
       "event_id": "00496397-001",
@@ -3164,9 +3156,13 @@
         {
           "start_time": "2026-06-23T21:00:00.000Z",
           "end_time": "2026-06-24T04:30:00.000Z"
+        },
+        {
+          "start_time": "2026-06-24T21:00:00.000Z",
+          "end_time": "2026-06-25T04:30:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 3
     },
     {
       "event_id": "00504005-001",
