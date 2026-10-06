@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T20:46:39.927Z",
+  "last_updated": "2026-10-06T20:46:40.545Z",
   "source": "National Highways",
   "road": "A282",
   "count": 10,
@@ -308,10 +308,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-10-05T20:00:00.000Z",
-          "end_time": "2026-10-06T04:30:00.000Z"
-        },
-        {
           "start_time": "2026-10-12T20:00:00.000Z",
           "end_time": "2026-10-13T04:30:00.000Z"
         },
@@ -326,6 +322,10 @@
         {
           "start_time": "2026-10-13T20:00:00.000Z",
           "end_time": "2026-10-14T04:30:00.000Z"
+        },
+        {
+          "start_time": "2026-10-20T20:00:00.000Z",
+          "end_time": "2026-10-21T04:30:00.000Z"
         },
         {
           "start_time": "2026-10-07T20:00:00.000Z",
@@ -1249,74 +1249,6 @@
       "occurrence_count": 1
     },
     {
-      "event_id": "00523982-001",
-      "title": "A2 Westbound Darenth Interchange to M25 Clockwise Jct 2 Link Road",
-      "description": "A2 Westbound Darenth Interchange to M25 Clockwise Jct 2 Link Road\nLane and link road closure for emergency carriagway repairs\nDiversion via National Highways Network",
-      "status": null,
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              0.240131834732257,
-              51.4260395005959
-            ],
-            [
-              0.239822765975988,
-              51.4259069219857
-            ],
-            [
-              0.239496416218236,
-              51.4257066732766
-            ],
-            [
-              0.238713664502077,
-              51.4251795846281
-            ],
-            [
-              0.238282657237463,
-              51.4248092447934
-            ],
-            [
-              0.237184299791437,
-              51.4237375273596
-            ],
-            [
-              0.236479060873732,
-              51.42310569984
-            ],
-            [
-              0.235700489200142,
-              51.4223806167048
-            ],
-            [
-              0.235013661903567,
-              51.4218430719915
-            ],
-            [
-              0.234041800879548,
-              51.4211044661517
-            ],
-            [
-              0.233388373101139,
-              51.4206867354945
-            ],
-            [
-              0.233123110380664,
-              51.4205253204816
-            ]
-          ]
-        ]
-      },
-      "periods": [
-        {
-          "start_time": "2026-10-05T21:00:00.000Z",
-          "end_time": "2026-10-06T04:30:00.000Z"
-        }
-      ],
-      "occurrence_count": 1
-    },
-    {
       "event_id": "00524478-001",
       "title": "M25 Clockwise Dartford Crossing QEII Bridge Jct 31 to A282 Southbound Jct 2",
       "description": "M25 Clockwise Dartford Crossing QEII Bridge Jct 31 to A282 Southbound Jct 2\r\nCarriageway and lane closure for emergency safety fence repairs\r\nDiversion via National Highways and Local Authorities Network",
@@ -2022,6 +1954,10 @@
       },
       "periods": [
         {
+          "start_time": "2026-10-20T21:00:00.000Z",
+          "end_time": "2026-10-21T04:30:00.000Z"
+        },
+        {
           "start_time": "2026-10-15T21:00:00.000Z",
           "end_time": "2026-10-16T04:30:00.000Z"
         },
@@ -2030,7 +1966,107 @@
           "end_time": "2026-10-17T05:00:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 3
+    },
+    {
+      "event_id": "00525963-001",
+      "title": "A282 Northbound Jct 2 to Jct 1B Link Road",
+      "description": "A282 Northbound Jct 2 to Jct 1B Link Road\r\nLane and link road closure for emergency carriageway repairs\r\nDiversion via National Highways Network",
+      "status": null,
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.23829042004754,
+              51.4374631823426
+            ],
+            [
+              0.238443614175915,
+              51.4372357936323
+            ],
+            [
+              0.238597189396976,
+              51.436864912541
+            ],
+            [
+              0.238619056311806,
+              51.4358066337758
+            ],
+            [
+              0.238711229826976,
+              51.4341797614442
+            ],
+            [
+              0.238699874759064,
+              51.4331851999602
+            ],
+            [
+              0.23869981776839,
+              51.4327489720624
+            ],
+            [
+              0.238651982319866,
+              51.4323801607257
+            ],
+            [
+              0.238562293118052,
+              51.432025440573
+            ],
+            [
+              0.238230563727164,
+              51.4313081422618
+            ],
+            [
+              0.23773559487937,
+              51.4303892680352
+            ],
+            [
+              0.237511778598676,
+              51.4294933381764
+            ],
+            [
+              0.237501288023279,
+              51.4288183771839
+            ],
+            [
+              0.237643676139455,
+              51.4281112387196
+            ],
+            [
+              0.237814391079921,
+              51.4276864305372
+            ],
+            [
+              0.237872294900747,
+              51.4275083782596
+            ],
+            [
+              0.237876126731249,
+              51.4274163702731
+            ],
+            [
+              0.237871805925629,
+              51.4273279804903
+            ],
+            [
+              0.237834466998723,
+              51.427245429118
+            ],
+            [
+              0.237802467034819,
+              51.4271949900923
+            ]
+          ]
+        ]
+      },
+      "periods": [
+        {
+          "start_time": "2026-10-14T21:00:00.000Z",
+          "end_time": "2026-10-15T04:30:00.000Z"
+        }
+      ],
+      "occurrence_count": 1
     }
   ]
 }
