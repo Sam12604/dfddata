@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T20:46:39.638Z",
+  "last_updated": "2026-10-13T20:46:40.065Z",
   "source": "National Highways",
   "road": "A282",
   "count": 12,
@@ -308,10 +308,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-10-12T20:00:00.000Z",
-          "end_time": "2026-10-13T04:30:00.000Z"
-        },
-        {
           "start_time": "2026-10-19T20:00:00.000Z",
           "end_time": "2026-10-20T04:30:00.000Z"
         },
@@ -326,6 +322,10 @@
         {
           "start_time": "2026-10-20T20:00:00.000Z",
           "end_time": "2026-10-21T04:30:00.000Z"
+        },
+        {
+          "start_time": "2026-10-27T21:00:00.000Z",
+          "end_time": "2026-10-28T05:30:00.000Z"
         },
         {
           "start_time": "2026-10-14T20:00:00.000Z",
@@ -1373,6 +1373,92 @@
       "occurrence_count": 1
     },
     {
+      "event_id": "00525173-001",
+      "title": "M25 clockwise Jct 30 to A13 Eastbound Mardyke junction link road",
+      "description": "M25 clockwise Jct 30 to A13 Eastbound Mardyke junction link road\r\nLane and link road closure for urgent safety fence repairs \r\nDiversion via Local Authorities and National Highways Network",
+      "status": null,
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.269076888870679,
+              51.4993850219646
+            ],
+            [
+              0.269169723301703,
+              51.4991726265731
+            ],
+            [
+              0.269305013068848,
+              51.4990081797199
+            ],
+            [
+              0.26948321774389,
+              51.4988545860942
+            ],
+            [
+              0.269773762794369,
+              51.498685984283
+            ],
+            [
+              0.270312753541316,
+              51.498343404435
+            ],
+            [
+              0.270522032072376,
+              51.498219143274
+            ],
+            [
+              0.270640081973911,
+              51.4981636920307
+            ],
+            [
+              0.270775565265098,
+              51.498117424184
+            ],
+            [
+              0.270926579015901,
+              51.4980789268199
+            ],
+            [
+              0.271080274251858,
+              51.4980521170858
+            ],
+            [
+              0.271417169691202,
+              51.4980193707147
+            ],
+            [
+              0.272922410365228,
+              51.4978238813011
+            ]
+          ],
+          [
+            [
+              0.268064461122197,
+              51.5032941136728
+            ],
+            [
+              0.26806970940872,
+              51.5031636752064
+            ],
+            [
+              0.268079765308358,
+              51.5029077089933
+            ]
+          ]
+        ]
+      },
+      "periods": [
+        {
+          "start_time": "2026-10-13T21:00:00.000Z",
+          "end_time": "2026-10-14T04:30:00.000Z"
+        }
+      ],
+      "occurrence_count": 1
+    },
+    {
       "event_id": "00524177-001",
       "title": "M25 Anti-clockwise Jct 3 to Jct 2",
       "description": "M25 Anti-clockwise Jct 3 to Jct 2\nCarriageway and lane closure for resurfacing works\nDiversion via National Highways Network",
@@ -1576,78 +1662,6 @@
         {
           "start_time": "2026-10-14T21:00:00.000Z",
           "end_time": "2026-10-15T04:30:00.000Z"
-        }
-      ],
-      "occurrence_count": 1
-    },
-    {
-      "event_id": "00525976-001",
-      "title": "M25 Clockwise Jct 29 to Jct 30",
-      "description": "M25 Clockwise Jct 29 to Jct 30 \nLane, slip road and link road closure for electrical works\nDiversion via National Highways Network \n",
-      "status": null,
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              0.269095840878598,
-              51.4993416621983
-            ],
-            [
-              0.269169723301703,
-              51.4991726265731
-            ],
-            [
-              0.269305013068848,
-              51.4990081797199
-            ],
-            [
-              0.26948321774389,
-              51.4988545860942
-            ],
-            [
-              0.269773762794369,
-              51.498685984283
-            ],
-            [
-              0.270312753541316,
-              51.498343404435
-            ],
-            [
-              0.270522032072376,
-              51.498219143274
-            ],
-            [
-              0.270640081973911,
-              51.4981636920307
-            ],
-            [
-              0.270775565265098,
-              51.498117424184
-            ],
-            [
-              0.270926579015901,
-              51.4980789268199
-            ],
-            [
-              0.271080274251858,
-              51.4980521170858
-            ],
-            [
-              0.271417169691202,
-              51.4980193707147
-            ],
-            [
-              0.272406378408639,
-              51.4978909020578
-            ]
-          ]
-        ]
-      },
-      "periods": [
-        {
-          "start_time": "2026-10-12T21:00:00.000Z",
-          "end_time": "2026-10-13T04:30:00.000Z"
         }
       ],
       "occurrence_count": 1
