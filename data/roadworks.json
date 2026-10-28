@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T20:46:39.741Z",
+  "last_updated": "2026-10-28T20:46:39.794Z",
   "source": "National Highways",
   "road": "A282",
   "count": 14,
@@ -308,10 +308,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-10-27T21:00:00.000Z",
-          "end_time": "2026-10-28T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-10-28T21:00:00.000Z",
           "end_time": "2026-10-29T05:30:00.000Z"
         },
@@ -324,12 +320,12 @@
           "end_time": "2026-10-31T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 8
+      "occurrence_count": 6
     },
     {
-      "event_id": "00499892-001",
+      "event_id": "00499892-002",
       "title": "A282 Northbound Dartford Crossing East Tunnel",
-      "description": "A282 Northbound Dartford Crossing East Tunnel\r\nTunnel closure for contraflow\r\nDiversion via National Highways Network",
+      "description": "A282 Northbound Dartford Crossing East Tunnel\r\nTunnel closure for tunnel maintenance\r\nDiversion via National Highways Network",
       "status": null,
       "geometry": {
         "type": "MultiLineString",
@@ -464,8 +460,8 @@
       },
       "periods": [
         {
-          "start_time": "2026-10-31T21:00:00.000Z",
-          "end_time": "2026-11-01T09:00:00.000Z"
+          "start_time": "2026-10-31T22:00:00.000Z",
+          "end_time": "2026-11-01T06:00:00.000Z"
         }
       ],
       "occurrence_count": 1
@@ -944,9 +940,13 @@
         {
           "start_time": "2026-11-10T21:00:00.000Z",
           "end_time": "2026-11-11T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-11T21:00:00.000Z",
+          "end_time": "2026-11-12T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 14
+      "occurrence_count": 16
     },
     {
       "event_id": "00524378-001",
@@ -2206,9 +2206,13 @@
         {
           "start_time": "2026-11-10T22:00:00.000Z",
           "end_time": "2026-11-11T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-11T22:00:00.000Z",
+          "end_time": "2026-11-12T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 3
     },
     {
       "event_id": "00508661-001",
@@ -2936,10 +2940,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-10-27T22:00:00.000Z",
-          "end_time": "2026-10-28T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-10-28T22:00:00.000Z",
           "end_time": "2026-10-29T05:30:00.000Z"
         },
@@ -2952,7 +2952,7 @@
           "end_time": "2026-10-31T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 4
+      "occurrence_count": 3
     },
     {
       "event_id": "00519532-001",
@@ -3956,9 +3956,13 @@
         {
           "start_time": "2026-11-10T22:00:00.000Z",
           "end_time": "2026-11-11T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-11T22:00:00.000Z",
+          "end_time": "2026-11-12T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 3
     }
   ]
 }
