@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-03T20:46:40.046Z",
+  "last_updated": "2026-11-04T21:46:40.905Z",
   "source": "National Highways",
   "road": "A282",
-  "count": 12,
+  "count": 11,
   "roadworks": [
     {
       "event_id": "00445990-001",
@@ -308,10 +308,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-11-03T21:00:00.000Z",
-          "end_time": "2026-11-04T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-11-04T21:00:00.000Z",
           "end_time": "2026-11-05T05:30:00.000Z"
         },
@@ -350,6 +346,10 @@
         {
           "start_time": "2026-11-17T21:00:00.000Z",
           "end_time": "2026-11-18T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-18T21:00:00.000Z",
+          "end_time": "2026-11-19T05:30:00.000Z"
         }
       ],
       "occurrence_count": 22
@@ -1965,88 +1965,6 @@
       "occurrence_count": 1
     },
     {
-      "event_id": "00526381-001",
-      "title": "M25 Clockwise Jct 29 to Jct 30",
-      "description": "M25 Clockwise Jct 29 to Jct 30 \nLane and carriageway closure for resurfacing works \nDiversion via National Highways Network",
-      "status": null,
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              0.26886751809066,
-              51.4975959749765
-            ],
-            [
-              0.268891243311815,
-              51.497498660623
-            ],
-            [
-              0.268978746696775,
-              51.4965149876986
-            ],
-            [
-              0.268996840180329,
-              51.4957994779049
-            ],
-            [
-              0.268962458804943,
-              51.4949957337569
-            ],
-            [
-              0.268872337488474,
-              51.4941499006057
-            ],
-            [
-              0.268736281295674,
-              51.4933079247985
-            ],
-            [
-              0.268546066197723,
-              51.4925118728877
-            ],
-            [
-              0.268288961530351,
-              51.4916750163149
-            ],
-            [
-              0.267861907400764,
-              51.4904048444614
-            ],
-            [
-              0.267628918491714,
-              51.4894746205233
-            ],
-            [
-              0.267515888613153,
-              51.4889049174185
-            ],
-            [
-              0.267491152055203,
-              51.4886075972493
-            ]
-          ],
-          [
-            [
-              0.268311572337041,
-              51.5013059297938
-            ],
-            [
-              0.268864342402579,
-              51.4975998594469
-            ]
-          ]
-        ]
-      },
-      "periods": [
-        {
-          "start_time": "2026-11-03T22:00:00.000Z",
-          "end_time": "2026-11-04T05:30:00.000Z"
-        }
-      ],
-      "occurrence_count": 1
-    },
-    {
       "event_id": "00523958-002",
       "title": "M25 Clockwise Jct 30 to A13 Eastbound Mardyke Junction link road",
       "description": "M25 Clockwise Jct 30 to A13 Eastbound Mardyke Junction link road\r\nLane and link road closure for gantry works \r\nDiversion via National Highways Network ",
@@ -3036,9 +2954,13 @@
         {
           "start_time": "2026-11-17T22:00:00.000Z",
           "end_time": "2026-11-18T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-18T22:00:00.000Z",
+          "end_time": "2026-11-19T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 3
     }
   ]
 }
