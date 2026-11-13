@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T20:46:42.202Z",
+  "last_updated": "2026-11-13T20:46:39.682Z",
   "source": "National Highways",
   "road": "A282",
   "count": 13,
@@ -308,10 +308,6 @@
       },
       "periods": [
         {
-          "start_time": "2026-11-12T21:00:00.000Z",
-          "end_time": "2026-11-13T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-11-13T21:00:00.000Z",
           "end_time": "2026-11-14T05:30:00.000Z"
         },
@@ -350,6 +346,10 @@
         {
           "start_time": "2026-11-26T21:00:00.000Z",
           "end_time": "2026-11-27T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-27T21:00:00.000Z",
+          "end_time": "2026-11-28T05:30:00.000Z"
         }
       ],
       "occurrence_count": 22
@@ -916,15 +916,11 @@
       },
       "periods": [
         {
-          "start_time": "2026-11-12T22:00:00.000Z",
-          "end_time": "2026-11-13T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-11-13T23:00:00.000Z",
           "end_time": "2026-11-14T06:00:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 1
     },
     {
       "event_id": "00512921-001",
@@ -1972,9 +1968,13 @@
         {
           "start_time": "2026-11-26T22:00:00.000Z",
           "end_time": "2026-11-27T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-27T23:00:00.000Z",
+          "end_time": "2026-11-28T06:00:00.000Z"
         }
       ],
-      "occurrence_count": 4
+      "occurrence_count": 5
     },
     {
       "event_id": "00525441-001",
@@ -2092,15 +2092,11 @@
       },
       "periods": [
         {
-          "start_time": "2026-11-12T22:00:00.000Z",
-          "end_time": "2026-11-13T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-11-13T23:00:00.000Z",
           "end_time": "2026-11-14T05:30:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 1
     },
     {
       "event_id": "00508777-001",
@@ -2778,15 +2774,11 @@
       },
       "periods": [
         {
-          "start_time": "2026-11-12T22:00:00.000Z",
-          "end_time": "2026-11-13T05:30:00.000Z"
-        },
-        {
           "start_time": "2026-11-13T23:00:00.000Z",
           "end_time": "2026-11-14T06:00:00.000Z"
         }
       ],
-      "occurrence_count": 2
+      "occurrence_count": 1
     },
     {
       "event_id": "00516937-001",
@@ -4018,9 +4010,13 @@
         {
           "start_time": "2026-11-26T22:00:00.000Z",
           "end_time": "2026-11-27T05:30:00.000Z"
+        },
+        {
+          "start_time": "2026-11-27T23:00:00.000Z",
+          "end_time": "2026-11-28T06:00:00.000Z"
         }
       ],
-      "occurrence_count": 4
+      "occurrence_count": 5
     }
   ]
 }
